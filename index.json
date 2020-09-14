@@ -1,0 +1,1010 @@
+[
+   {
+      "bank_code": "014",
+      "bank_name": "PT. BANK CENTRAL ASIA, TBK.",
+      "swift_code": "CENAIDJA",
+      "name": "Bank Central Asia (BCA)",
+      "code": "BCA"
+   },
+   {
+      "bank_code": "008",
+      "bank_name": "PT. BANK MANDIRI, TBK.",
+      "swift_code": "BMRIIDJA",
+      "name": "Bank Mandiri",
+      "code": "MANDIRI"
+   },
+   {
+      "bank_code": "002",
+      "bank_name": "PT. BANK RAKYAT INDONESIA, TBK.",
+      "swift_code": "BRINIDJA",
+      "name": "Bank Rakyat Indonesia (BRI)",
+      "code": "BRI"
+   },
+   {
+      "bank_code": "009",
+      "bank_name": "PT. BANK NEGARA INDONESIA, TBK.",
+      "swift_code": "BNINIDJA",
+      "name": "Bank Negara Indonesia (BNI)",
+      "code": "BNI"
+   },
+   {
+      "bank_code": "011",
+      "bank_name": "PT. BANK DANAMON INDONESIA, TBK.",
+      "swift_code": "BDINIDJA",
+      "name": "Bank Danamon",
+      "code": "DANAMON"
+   },
+   {
+      "bank_code": "013",
+      "bank_name": "PT. BANK PERMATA, TBK.",
+      "swift_code": "BBBAIDJA",
+      "name": "Bank Permata",
+      "code": "PERMATA"
+   },
+   {
+      "bank_code": "019",
+      "bank_name": "PT. BANK PANIN",
+      "swift_code": "PINBIDJA",
+      "name": "Bank Panin",
+      "code": "PANIN"
+   },
+   {
+      "bank_code": "517",
+      "bank_name": "PT. BANK PANIN DUBAI SYARIAH",
+      "swift_code": "ARFAIDJ1",
+      "name": "Bank Panin Syariah",
+      "code": "PANIN_SYR"
+   },
+   {
+      "bank_code": "153",
+      "bank_name": "PT. BANK SINARMAS",
+      "swift_code": "SBJKIDJA",
+      "name": "Bank Sinarmas",
+      "code": "SINARMAS"
+   },
+   {
+      "bank_code": "734",
+      "bank_name": "PT. BANK SINARMAS UNIT USAHA SYARIAH",
+      "swift_code": "SYTBIDJ1",
+      "name": "Bank Sinarmas UUS",
+      "code": "SINARMAS_UUS"
+   },
+   {
+      "bank_code": "531",
+      "bank_name": "PT. ANGLOMAS INTERNATIONAL BANK",
+      "swift_code": "LOMAIDJ1",
+      "name": "Anglomas International Bank",
+      "code": "ANGLOMAS"
+   },
+   {
+      "bank_code": "531",
+      "bank_name": "PT. BANK AMAR INDONESIA",
+      "swift_code": "LOMAIDJ1",
+      "name": "Bank Amar Indonesia (formerly Anglomas International Bank)",
+      "code": "AMAR"
+   },
+   {
+      "bank_code": "040",
+      "bank_name": "BANGKOK BANK PUBLIC CO. LTD.",
+      "swift_code": "BKKBIDJA",
+      "name": "Bangkok Bank",
+      "code": "BANGKOK"
+   },
+   {
+      "bank_code": "494",
+      "bank_name": "PT. BANK BRI AGRONIAGA TBK.",
+      "swift_code": "AGTBIDJA",
+      "name": "Bank BRI Agroniaga",
+      "code": "AGRONIAGA"
+   },
+   {
+      "bank_code": "061",
+      "bank_name": "PT. BANK ANZ INDONESIA",
+      "swift_code": "ANZBIDJX",
+      "name": "Bank ANZ Indonesia",
+      "code": "ANZ"
+   },
+   {
+      "bank_code": "037",
+      "bank_name": "PT. BANK ARTHA GRAHA INTERNATIONAL, TBK.",
+      "swift_code": "ARTGIDJA",
+      "name": "Bank Artha Graha International",
+      "code": "ARTHA"
+   },
+   {
+      "bank_code": "542",
+      "bank_name": "PT. BANK ARTOS INDONESIA",
+      "swift_code": "ATOSIDJ1",
+      "name": "Bank Artos Indonesia",
+      "code": "ARTOS"
+   },
+   {
+      "bank_code": "459",
+      "bank_name": "PT. BANK BISNIS INTERNASIONAL",
+      "swift_code": "BUSTIDJ1",
+      "name": "Bank Bisnis Internasional",
+      "code": "BISNIS_INTERNASIONAL"
+   },
+   {
+      "bank_code": "110",
+      "bank_name": "PT. BANK BJB",
+      "swift_code": "PDJBIDJA",
+      "name": "Bank BJB",
+      "code": "BJB"
+   },
+   {
+      "bank_code": "057",
+      "bank_name": "PT. BANK BNP PARIBAS INDONESIA",
+      "swift_code": "BNPAIDJA",
+      "name": "Bank BNP Paribas",
+      "code": "BNP_PARIBAS"
+   },
+   {
+      "bank_code": "441",
+      "bank_name": "PT. BANK BUKOPIN",
+      "swift_code": "BBUKIDJA",
+      "name": "Bank Bukopin",
+      "code": "BUKOPIN"
+   },
+   {
+      "bank_code": "076",
+      "bank_name": "PT. BANK BUMI ARTA",
+      "swift_code": "BBAIIDJA",
+      "name": "Bank Bumi Arta",
+      "code": "BUMI_ARTA"
+   },
+   {
+      "bank_code": "054",
+      "bank_name": "PT. BANK CAPITAL INDONESIA",
+      "swift_code": "BCIAIDJA",
+      "name": "Bank Capital Indonesia",
+      "code": "CAPITAL"
+   },
+   {
+      "bank_code": "949",
+      "bank_name": "PT. BANK CHINATRUST INDONESIA",
+      "swift_code": "CTCBIDJA",
+      "name": "Bank Chinatrust Indonesia",
+      "code": "CHINATRUST"
+   },
+   {
+      "bank_code": "950",
+      "bank_name": "PT. BANK COMMONWEALTH",
+      "swift_code": "BICNIDJA",
+      "name": "Bank Commonwealth",
+      "code": "COMMONWEALTH"
+   },
+   {
+      "bank_code": "011",
+      "bank_name": "PT. BANK DANAMON INDONESIA, TBK. UUS",
+      "swift_code": "SYBDIDJ1",
+      "name": "Bank Danamon UUS",
+      "code": "DANAMON_UUS"
+   },
+   {
+      "bank_code": "046",
+      "bank_name": "PT. BANK DBS INDONESIA",
+      "swift_code": "DBSBIDJA",
+      "name": "Bank DBS Indonesia",
+      "code": "DBS"
+   },
+   {
+      "bank_code": "526",
+      "bank_name": "PT. BANK DINAR INDONESIA",
+      "swift_code": "LMANIDJ1",
+      "name": "Bank Dinar Indonesia",
+      "code": "DINAR_INDONESIA"
+   },
+   {
+      "bank_code": "111",
+      "bank_name": "PT. BANK DKI",
+      "swift_code": "BDKIIDJA",
+      "name": "Bank DKI",
+      "code": "DKI"
+   },
+   {
+      "bank_code": "111",
+      "bank_name": "PT. BANK DKI. UUS",
+      "swift_code": "SYDKIDJ1",
+      "name": "Bank DKI UUS",
+      "code": "DKI_UUS"
+   },
+   {
+      "bank_code": "562",
+      "bank_name": "PT. BANK FAMA INTERNATIONAL",
+      "swift_code": "FAMAIDJ1",
+      "name": "Bank Fama International",
+      "code": "FAMA"
+   },
+   {
+      "bank_code": "161",
+      "bank_name": "PT. BANK GANESHA",
+      "swift_code": "GNESIDJA",
+      "name": "Bank Ganesha",
+      "code": "GANESHA"
+   },
+   {
+      "bank_code": "567",
+      "bank_name": "PT. BANK HARDA INTERNASIONAL",
+      "swift_code": "HRDAIDJ1",
+      "name": "Bank Harda Internasional",
+      "code": "HARDA_INTERNASIONAL"
+   },
+   {
+      "bank_code": "513",
+      "bank_name": "PT. BANK INA PERDANA",
+      "swift_code": "INPBIDJ1",
+      "name": "Bank Ina Perdania",
+      "code": "INA_PERDANA"
+   },
+   {
+      "bank_code": "555",
+      "bank_name": "PT. BANK INDEX SELINDO",
+      "swift_code": "BIDXIDJA",
+      "name": "Bank Index Selindo",
+      "code": "INDEX_SELINDO"
+   },
+   {
+      "bank_code": "016",
+      "bank_name": "PT. BANK MAYBANK INDONESIA TBK.",
+      "swift_code": "IBBKIDJA",
+      "name": "Bank Maybank",
+      "code": "MAYBANK"
+   },
+   {
+      "bank_code": "016",
+      "bank_name": "PT. BANK MAYBANK INDONESIA SYRIAH TBK.",
+      "swift_code": "MBBEIDJA",
+      "name": "Bank Maybank Syariah Indonesia",
+      "code": "MAYBANK_SYR"
+   },
+   {
+      "bank_code": "472",
+      "bank_name": "PT. BANK JASA JAKARTA",
+      "swift_code": "JAJSIDJ1",
+      "name": "Bank Jasa Jakarta",
+      "code": "JASA_JAKARTA"
+   },
+   {
+      "bank_code": "535",
+      "bank_name": "PT. BANK KESEJAHTERAAN EKONOMI",
+      "swift_code": "KSEBIDJ1",
+      "name": "Bank Kesejahteraan Ekonomi",
+      "code": "KESEJAHTERAAN_EKONOMI"
+   },
+   {
+      "bank_code": "157",
+      "bank_name": "PT. BANK MASPION INDONESIA",
+      "swift_code": "MASDIDJS",
+      "name": "Bank Maspion Indonesia",
+      "code": "MASPION"
+   },
+   {
+      "bank_code": "097",
+      "bank_name": "PT. BANK MAYAPADA INTERNATIONAL, TBK.",
+      "swift_code": "MAYAIDJA",
+      "name": "Bank Mayapada International",
+      "code": "MAYAPADA"
+   },
+   {
+      "bank_code": "553",
+      "bank_name": "PT. BANK MAYORA",
+      "swift_code": "MAYOIDJA",
+      "name": "Bank Mayora",
+      "code": "MAYORA"
+   },
+   {
+      "bank_code": "426",
+      "bank_name": "PT. BANK MEGA, TBK.",
+      "swift_code": "MEGAIDJA",
+      "name": "Bank Mega",
+      "code": "MEGA"
+   },
+   {
+      "bank_code": "151",
+      "bank_name": "PT. BANK MESTIKA DHARMA",
+      "swift_code": "MEDHIDS1",
+      "name": "Bank Mestika Dharma",
+      "code": "MESTIKA_DHARMA"
+   },
+   {
+      "bank_code": "152",
+      "bank_name": "PT. BANK SHINHAN INDONESIA",
+      "swift_code": "MEEKIDJ1",
+      "name": "Bank Shinhan Indonesia (formerly Bank Metro Express)",
+      "code": "SHINHAN"
+   },
+   {
+      "bank_code": "491",
+      "bank_name": "PT. BANK MITRA NIAGA",
+      "swift_code": "MGABIDJ1",
+      "name": "Bank Mitra Niaga",
+      "code": "MITRA_NIAGA"
+   },
+   {
+      "bank_code": "048",
+      "bank_name": "PT. BANK MIZUHO INDONESIA",
+      "swift_code": "MHCCIDJA",
+      "name": "Bank Mizuho Indonesia",
+      "code": "MIZUHO"
+   },
+   {
+      "bank_code": "147",
+      "bank_name": "PT. BANK MUAMALAT INDONESIA TBK",
+      "swift_code": "MUABIDJA",
+      "name": "Bank Muamalat Indonesia",
+      "code": "MUAMALAT"
+   },
+   {
+      "bank_code": "548",
+      "bank_name": "PT. BANK MULTI ARTA SENTOSA",
+      "swift_code": "BMSEIDJA",
+      "name": "Bank Multi Arta Sentosa",
+      "code": "MULTI_ARTA_SENTOSA"
+   },
+   {
+      "bank_code": "145",
+      "bank_name": "PT. BANK NUSANTARA PARAHYANGAN",
+      "swift_code": "NUPAIDJ6",
+      "name": "Bank Nusantara Parahyangan",
+      "code": "NUSANTARA_PARAHYANGAN"
+   },
+   {
+      "bank_code": "028",
+      "bank_name": "PT. BANK OCBC NISP, TBK.",
+      "swift_code": "NISPIDJA",
+      "name": "Bank OCBC NISP",
+      "code": "OCBC"
+   },
+   {
+      "bank_code": "028",
+      "bank_name": "PT. BANK OCBC NISP, TBK. UUS",
+      "swift_code": "SYONIDJ1",
+      "name": "Bank OCBC NISP UUS",
+      "code": "OCBC_UUS"
+   },
+   {
+      "bank_code": "033",
+      "bank_name": "BANK OF AMERICA MERRILL-LYNCH",
+      "swift_code": "BOFAID2X",
+      "name": "Bank of America Merill-Lynch",
+      "code": "BAML"
+   },
+   {
+      "bank_code": "069",
+      "bank_name": "BANK OF CHINA LIMITED",
+      "swift_code": "BKCHIDJA",
+      "name": "Bank of China (BOC)",
+      "code": "BOC"
+   },
+   {
+      "bank_code": "042",
+      "bank_name": "BANK OF TOKYO MITSUBISHI UFJ, LTD.",
+      "swift_code": "BOTKIDJX",
+      "name": "Bank of Tokyo Mitsubishi UFJ",
+      "code": "TOKYO"
+   },
+   {
+      "bank_code": "013",
+      "bank_name": "PT. BANK PERMATA, TBK. UUS",
+      "swift_code": "SYBBIDJ1",
+      "name": "Bank Permata UUS",
+      "code": "PERMATA_UUS"
+   },
+   {
+      "bank_code": "089",
+      "bank_name": "PT. BANK RABOBANK INTERNATIONAL INDONESIA",
+      "swift_code": "RABOIDJA",
+      "name": "Bank Rabobank International Indonesia",
+      "code": "RABOBANK"
+   },
+   {
+      "bank_code": "047",
+      "bank_name": "PT. BANK RESONA PERDANIA",
+      "swift_code": "BPIAIDJA",
+      "name": "Bank Resona Perdania",
+      "code": "RESONA"
+   },
+   {
+      "bank_code": "501",
+      "bank_name": "PT. BANK ROYAL INDONESIA",
+      "swift_code": "ROYBIDJ1",
+      "name": "Bank Royal Indonesia",
+      "code": "ROYAL"
+   },
+   {
+      "bank_code": "564",
+      "bank_name": "PT. BANK MANDIRI TASPEN POS",
+      "swift_code": "SIHBIDJ1",
+      "name": "Mandiri Taspen Pos (formerly Bank Sinar Harapan Bali)",
+      "code": "MANDIRI_TASPEN"
+   },
+   {
+      "bank_code": "045",
+      "bank_name": "PT. BANK SUMITOMO MITSUI INDONESIA",
+      "swift_code": "SUNIIDJA",
+      "name": "Bank Sumitomo Mitsui Indonesia",
+      "code": "MITSUI"
+   },
+   {
+      "bank_code": "451",
+      "bank_name": "PT. BANK SYARIAH MANDIRI",
+      "swift_code": "BSMDIDJA",
+      "name": "Bank Syariah Mandiri",
+      "code": "MANDIRI_SYR"
+   },
+   {
+      "bank_code": "506",
+      "bank_name": "PT. BANK SYARIAH MEGA INDONESIA",
+      "swift_code": "BUTGIDJ1",
+      "name": "Bank Syariah Mega",
+      "code": "MEGA_SYR"
+   },
+   {
+      "bank_code": "200",
+      "bank_name": "PT. BANK TABUNGAN NEGARA, TBK.",
+      "swift_code": "BTANIDJA",
+      "name": "Bank Tabungan Negara (BTN)",
+      "code": "BTN"
+   },
+   {
+      "bank_code": "200",
+      "bank_name": "PT. BANK TABUNGAN NEGARA, TBK. UUS",
+      "swift_code": "SYBTIDJ1",
+      "name": "Bank Tabungan Negara (BTN) UUS",
+      "code": "BTN_UUS"
+   },
+   {
+      "bank_code": "213",
+      "bank_name": "PT. BANK TABUNGAN PENSIUNAN NASIONAL",
+      "swift_code": "BTPNIDJA",
+      "name": "Bank Tabungan Pensiunan Nasional",
+      "code": "TABUNGAN_PENSIUNAN_NASIONAL"
+   },
+   {
+      "bank_code": "023",
+      "bank_name": "PT. BANK UOB INDONESIA",
+      "swift_code": "BBIJIDJA",
+      "name": "Bank UOB Indonesia",
+      "code": "UOB"
+   },
+   {
+      "bank_code": "566",
+      "bank_name": "PT. BANK VICTORIA INTERNASIONAL",
+      "swift_code": "BVICIDJA",
+      "name": "Bank Victoria Internasional",
+      "code": "VICTORIA_INTERNASIONAL"
+   },
+   {
+      "bank_code": "068",
+      "bank_name": "PT. BANK WOORI SAUDARA ,TBK.",
+      "swift_code": "HVBKIDJA",
+      "name": "Bank Woori Indonesia",
+      "code": "WOORI"
+   },
+   {
+      "bank_code": "490",
+      "bank_name": "PT. BANK YUDHA BHAKTI",
+      "swift_code": "YUDBIDJ1",
+      "name": "Bank Yudha Bhakti",
+      "code": "YUDHA_BHAKTI"
+   },
+   {
+      "bank_code": "116",
+      "bank_name": "PT. BPD ACEH",
+      "swift_code": "PDACIDJ1",
+      "name": "BPD Aceh",
+      "code": "ACEH"
+   },
+   {
+      "bank_code": "116",
+      "bank_name": "PT. BPD ACEH. UUS",
+      "swift_code": "SYACIDJ1",
+      "name": "BPD Aceh UUS",
+      "code": "ACEH_UUS"
+   },
+   {
+      "bank_code": "129",
+      "bank_name": "PT. BPD BALI",
+      "swift_code": "ABALIDBS",
+      "name": "BPD Bali",
+      "code": "BALI"
+   },
+   {
+      "bank_code": "133",
+      "bank_name": "PT. BPD BENGKULU",
+      "swift_code": "PDBKIDJ1",
+      "name": "BPD Bengkulu",
+      "code": "BENGKULU"
+   },
+   {
+      "bank_code": "112",
+      "bank_name": "PT. BPD DAERAH ISTIMEWA YOGYAKARTA",
+      "swift_code": "PDYKIDJ1",
+      "name": "BPD Daerah Istimewa Yogyakarta (DIY)",
+      "code": "DAERAH_ISTIMEWA"
+   },
+   {
+      "bank_code": "112",
+      "bank_name": "PT. BPD DAERAH ISTIMEWA YOGYAKARTA. UUS",
+      "swift_code": "SYYKIDJ1",
+      "name": "BPD Daerah Istimewa Yogyakarta (DIY) UUS",
+      "code": "DAERAH_ISTIMEWA_UUS"
+   },
+   {
+      "bank_code": "115",
+      "bank_name": "PT. BPD JAMBI",
+      "swift_code": "PDJMIDJ1",
+      "name": "BPD Jambi",
+      "code": "JAMBI"
+   },
+   {
+      "bank_code": "115",
+      "bank_name": "PT. BPD JAMBI. UUS",
+      "swift_code": "SYJMIDJ1",
+      "name": "BPD Jambi UUS",
+      "code": "JAMBI_UUS"
+   },
+   {
+      "bank_code": "113",
+      "bank_name": "PT. BPD JAWA TENGAH",
+      "swift_code": "PDJGIDJ1",
+      "name": "BPD Jawa Tengah",
+      "code": "JAWA_TENGAH"
+   },
+   {
+      "bank_code": "113",
+      "bank_name": "PT. BPD JAWA TENGAH. UUS",
+      "swift_code": "SYJGIDJ1",
+      "name": "BPD Jawa Tengah UUS",
+      "code": "JAWA_TENGAH_UUS"
+   },
+   {
+      "bank_code": "114",
+      "bank_name": "PT. BPD JAWA TIMUR",
+      "swift_code": "PDJTIDJ1",
+      "name": "BPD Jawa Timur",
+      "code": "JAWA_TIMUR"
+   },
+   {
+      "bank_code": "114",
+      "bank_name": "PT. BPD JAWA TIMUR. UUS",
+      "swift_code": "SYJTIDJ1",
+      "name": "BPD Jawa Timur UUS",
+      "code": "JAWA_TIMUR_UUS"
+   },
+   {
+      "bank_code": "123",
+      "bank_name": "PT. BPD KALIMANTAN BARAT",
+      "swift_code": "PDKBIDJ1",
+      "name": "BPD Kalimantan Barat",
+      "code": "KALIMANTAN_BARAT"
+   },
+   {
+      "bank_code": "123",
+      "bank_name": "PT. BPD KALIMANTAN BARAT. UUS",
+      "swift_code": "SYKBIDJ1",
+      "name": "BPD Kalimantan Barat UUS",
+      "code": "KALIMANTAN_BARAT_UUS"
+   },
+   {
+      "bank_code": "122",
+      "bank_name": "PT. BPD KALIMANTAN SELATAN",
+      "swift_code": "PDKSIDJ1",
+      "name": "BPD Kalimantan Selatan",
+      "code": "KALIMANTAN_SELATAN"
+   },
+   {
+      "bank_code": "122",
+      "bank_name": "PT. BPD KALIMANTAN SELATAN. UUS",
+      "swift_code": "SYKSIDJ1",
+      "name": "BPD Kalimantan Selatan UUS",
+      "code": "KALIMANTAN_SELATAN_UUS"
+   },
+   {
+      "bank_code": "125",
+      "bank_name": "PT. BPD KALIMANTAN TENGAH",
+      "swift_code": "PDKGIDJ1",
+      "name": "BPD Kalimantan Tengah",
+      "code": "KALIMANTAN_TENGAH"
+   },
+   {
+      "bank_code": "124",
+      "bank_name": "PT. BPD KALIMANTAN TIMUR",
+      "swift_code": "PDKTIDJ1",
+      "name": "BPD Kalimantan Timur",
+      "code": "KALIMANTAN_TIMUR"
+   },
+   {
+      "bank_code": "124",
+      "bank_name": "PT. BPD KALIMANTAN TIMUR. UUS",
+      "swift_code": "SYKTIDJ1",
+      "name": "BPD Kalimantan Timur UUS",
+      "code": "KALIMANTAN_TIMUR_UUS"
+   },
+   {
+      "bank_code": "121",
+      "bank_name": "PT. BPD LAMPUNG",
+      "swift_code": "PDLPIDJ1",
+      "name": "BPD Lampung",
+      "code": "LAMPUNG"
+   },
+   {
+      "bank_code": "131",
+      "bank_name": "PT. BPD MALUKU",
+      "swift_code": "PDMLIDJ1",
+      "name": "BPD Maluku",
+      "code": "MALUKU"
+   },
+   {
+      "bank_code": "128",
+      "bank_name": "PT. BPD NUSA TENGGARA BARAT",
+      "swift_code": "PDNBIDJ1",
+      "name": "BPD Nusa Tenggara Barat",
+      "code": "NUSA_TENGGARA_BARAT"
+   },
+   {
+      "bank_code": "128",
+      "bank_name": "PT. BPD NUSA TENGGARA BARAT. UUS",
+      "swift_code": "SYNBIDJ1",
+      "name": "BPD Nusa Tenggara Barat UUS",
+      "code": "NUSA_TENGGARA_BARAT_UUS"
+   },
+   {
+      "bank_code": "130",
+      "bank_name": "PT. BPD NUSA TENGGARA TIMUR",
+      "swift_code": "PDNTIDJ1",
+      "name": "BPD Nusa Tenggara Timur",
+      "code": "NUSA_TENGGARA_TIMUR"
+   },
+   {
+      "bank_code": "132",
+      "bank_name": "PT. BPD PAPUA",
+      "swift_code": "PDIJIDJ1",
+      "name": "BPD Papua",
+      "code": "PAPUA"
+   },
+   {
+      "bank_code": "119",
+      "bank_name": "PT. BPD RIAU DAN KEPRI",
+      "swift_code": "PDRIIDJA",
+      "name": "BPD Riau Dan Kepri",
+      "code": "RIAU_DAN_KEPRI"
+   },
+   {
+      "bank_code": "119",
+      "bank_name": "PT. BPD RIAU DAN KEPRI. UUS",
+      "swift_code": "SYRIIDJ1",
+      "name": "BPD Riau Dan Kepri UUS",
+      "code": "RIAU_DAN_KEPRI_UUS"
+   },
+   {
+      "bank_code": "134",
+      "bank_name": "PT. BPD SULAWESI TENGAH",
+      "swift_code": "PDWGIDJ1",
+      "name": "BPD Sulawesi Tengah",
+      "code": "SULAWESI"
+   },
+   {
+      "bank_code": "135",
+      "bank_name": "PT. BPD SULAWESI TENGGARA",
+      "swift_code": "PDWRIDJ1",
+      "name": "BPD Sulawesi Tenggara",
+      "code": "SULAWESI_TENGGARA"
+   },
+   {
+      "bank_code": "126",
+      "bank_name": "PT. BPD SULSELBAR",
+      "swift_code": "PDWSIDJ1",
+      "name": "BPD Sulselbar",
+      "code": "SULSELBAR"
+   },
+   {
+      "bank_code": "126",
+      "bank_name": "PT. BPD SULSELBAR. UUS",
+      "swift_code": "SYWSIDJ1",
+      "name": "BPD Sulselbar UUS",
+      "code": "SULSELBAR_UUS"
+   },
+   {
+      "bank_code": "127",
+      "bank_name": "PT. BPD SULUT",
+      "swift_code": "PDWUIDJ1",
+      "name": "BPD Sulut",
+      "code": "SULUT"
+   },
+   {
+      "bank_code": "118",
+      "bank_name": "PT. BPD SUMATERA BARAT",
+      "swift_code": "PDSBIDSP",
+      "name": "BPD Sumatera Barat",
+      "code": "SUMATERA_BARAT"
+   },
+   {
+      "bank_code": "118",
+      "bank_name": "PT. BPD SUMATERA BARAT. UUS",
+      "swift_code": "SYSBIDJ1",
+      "name": "BPD Sumatera Barat UUS",
+      "code": "SUMATERA_BARAT_UUS"
+   },
+   {
+      "bank_code": "120",
+      "bank_name": "PT. BPD SUMSEL DAN BABEL",
+      "swift_code": "BSSPIDSP",
+      "name": "BPD Sumsel Dan Babel",
+      "code": "SUMSEL_DAN_BABEL"
+   },
+   {
+      "bank_code": "120",
+      "bank_name": "PT. BPD SUMSEL DAN BABEL. UUS",
+      "swift_code": "SYSSIDJ1",
+      "name": "BPD Sumsel Dan Babel UUS",
+      "code": "SUMSEL_DAN_BABEL_UUS"
+   },
+   {
+      "bank_code": "117",
+      "bank_name": "PT. BPD SUMUT",
+      "swift_code": "PDSUIDJ1",
+      "name": "BPD Sumut",
+      "code": "SUMUT"
+   },
+   {
+      "bank_code": "117",
+      "bank_name": "PT. BPD SUMUT. UUS",
+      "swift_code": "SYSUIDJ1",
+      "name": "BPD Sumut UUS",
+      "code": "SUMUT_UUS"
+   },
+   {
+      "bank_code": "559",
+      "bank_name": "PT. CENTRATAMA NASIONAL BANK",
+      "swift_code": "CNBAIDJ1",
+      "name": "Centratama Nasional Bank",
+      "code": "CENTRATAMA"
+   },
+   {
+      "bank_code": "031",
+      "bank_name": "CITIBANK N.A.",
+      "swift_code": "CITIIDJX",
+      "name": "Citibank",
+      "code": "CITIBANK"
+   },
+   {
+      "bank_code": "067",
+      "bank_name": "DEUTSCHE BANK AG",
+      "swift_code": "DEUTIDJA",
+      "name": "Deutsche Bank",
+      "code": "DEUTSCHE"
+   },
+   {
+      "bank_code": "087",
+      "bank_name": "HONGKONG AND SHANGHAI BANK CORPORATION",
+      "swift_code": "HSBCIDJA",
+      "name": "HSBC Indonesia (formerly Bank Ekonomi Raharja)",
+      "code": "HSBC"
+   },
+   {
+      "bank_code": "087",
+      "bank_name": "HONGKONG AND SHANGHAI BANK CORPORATION. UUS",
+      "swift_code": "HSBCIDJA",
+      "name": "Hongkong and Shanghai Bank Corporation (HSBC) UUS",
+      "code": "HSBC_UUS"
+   },
+   {
+      "bank_code": "032",
+      "bank_name": "JP MORGAN CHASE BANK, N.A",
+      "swift_code": "CHASIDJX",
+      "name": "JP Morgan Chase Bank",
+      "code": "JPMORGAN"
+   },
+   {
+      "bank_code": "520",
+      "bank_name": "PT. PRIMA MASTER BANK",
+      "swift_code": "PMASIDJ1",
+      "name": "Prima Master Bank",
+      "code": "PRIMA_MASTER"
+   },
+   {
+      "bank_code": "050",
+      "bank_name": "STANDARD CHARTERED BANK",
+      "swift_code": "SCBLIDJX",
+      "name": "Standard Charted Bank",
+      "code": "STANDARD_CHARTERED"
+   },
+   {
+      "bank_code": "003",
+      "bank_name": "BANK EKSPOR INDONESIA",
+      "swift_code": "LPEIIDJ1",
+      "name": "Indonesia Eximbank (formerly Bank Ekspor Indonesia)",
+      "code": "EXIMBANK"
+   },
+   {
+      "bank_code": "020",
+      "bank_name": "BANK ARTA NIAGA KENCANA",
+      "name": "Bank Arta Niaga Kencana",
+      "code": "ARTA_NIAGA_KENCANA",
+      "swift_code": "ARNKIDJ1"
+   },
+   {
+      "bank_code": "164",
+      "bank_name": "PT. BANK ICBC INDONESIA",
+      "swift_code": "ICBKIDJA",
+      "name": "Bank ICBC Indonesia",
+      "code": "ICBC"
+   },
+   {
+      "bank_code": "212",
+      "bank_name": "BANK HIMPUNAN SAUDARA 1906, TBK",
+      "swift_code": "HVBKIDJA",
+      "name": "Bank Himpunan Saudara 1906",
+      "code": "HIMPUNAN_SAUDARA"
+   },
+   {
+      "bank_code": "212",
+      "bank_name": "PT. BANK WOORI SAUDARA INDONESIA 1906, TBK",
+      "swift_code": "HVBKIDJA",
+      "name": "Bank Woori Saudara Indonesia 1906 (formerly Bank Himpunan Saudara and Bank Woori Indonesia)",
+      "code": "WOORI_SAUDARA"
+   },
+   {
+      "bank_code": "503",
+      "bank_name": "BANK NATIONALNOBU",
+      "swift_code": "LFIBIDJ1",
+      "name": "Bank Nationalnobu",
+      "code": "NATIONALNOBU"
+   },
+   {
+      "bank_code": "022",
+      "bank_name": "PT. BANK CIMB NIAGA, TBK",
+      "swift_code": "BNIAIDJA",
+      "name": "Bank CIMB Niaga",
+      "code": "CIMB"
+   },
+   {
+      "bank_code": "022",
+      "bank_name": "PT. BANK CIMB NIAGA, TBK. UUS",
+      "swift_code": "SYNAIDJ1",
+      "name": "Bank CIMB Niaga UUS",
+      "code": "CIMB_UUS"
+   },
+   {
+      "bank_code": "536",
+      "bank_name": "PT. BANK BCA SYARIAH",
+      "swift_code": "SYCAIDJ1",
+      "name": "Bank Central Asia (BCA) Syariah",
+      "code": "BCA_SYR"
+   },
+   {
+      "bank_code": "427",
+      "bank_name": "PT. BANK BNI SYARIAH",
+      "swift_code": "SYNIIDJ1",
+      "name": "Bank BNI Syariah",
+      "code": "BNI_SYR"
+   },
+   {
+      "bank_code": "425",
+      "bank_name": "PT. BANK BJB SYARIAH",
+      "swift_code": "SYJBIDJ1",
+      "name": "Bank BJB Syariah",
+      "code": "BJB_SYR"
+   },
+   {
+      "bank_code": "422",
+      "bank_name": "PT. BANK SYARIAH BRI",
+      "swift_code": "DJARIDJ1",
+      "name": "Bank Syariah BRI",
+      "code": "BRI_SYR"
+   },
+   {
+      "bank_code": "521",
+      "bank_name": "PT. BANK SYARIAH BUKOPIN",
+      "swift_code": "SDOBIDJ1",
+      "name": "Bank Syariah Bukopin",
+      "code": "BUKOPIN_SYR"
+   },
+   {
+      "bank_code": "405",
+      "bank_name": "PT. BANK VICTORIA SYARIAH",
+      "swift_code": "SWAGIDJ1",
+      "name": "Bank Victoria Syariah",
+      "code": "VICTORIA_SYR"
+   },
+   {
+      "bank_code": "485",
+      "bank_name": "PT. BANK MNC INTERNASIONAL, TBK.",
+      "swift_code": "BUMIIDJA",
+      "name": "Bank MNC Internasional",
+      "code": "MNC_INTERNASIONAL"
+   },
+   {
+      "bank_code": "523",
+      "bank_name": "PT. BANK SAHABAT SAMPOERNA",
+      "swift_code": "BDIPIDJ1",
+      "name": "Bank Sahabat Sampoerna",
+      "code": "SAHABAT_SAMPOERNA"
+   },
+   {
+      "bank_code": "167",
+      "bank_name": "PT. BANK QNB INDONESIA",
+      "swift_code": "AWANIDJA",
+      "name": "Bank QNB Indonesia (formerly Bank QNB Kesawan)",
+      "code": "QNB_INDONESIA"
+   },
+   {
+      "bank_code": "146",
+      "bank_name": "PT. BANK INDIA",
+      "swift_code": "BKIDIDJA",
+      "name": "Bank of India Indonesia",
+      "code": "INDIA"
+   },
+   {
+      "bank_code": "137",
+      "bank_name": "PT. BANK PEMBANGUNAN DAERAH BANTEN",
+      "swift_code": "PDBBIDJ1",
+      "name": "BPD Banten (formerly Bank Pundi Indonesia)",
+      "code": "BANTEN"
+   },
+   {
+      "bank_code": "466",
+      "bank_name": "PT. BANK ANDARA",
+      "swift_code": "RIPAIDJ1",
+      "name": "Bank Andara",
+      "code": "ANDARA"
+   },
+   {
+      "bank_code": "466",
+      "bank_name": "PT. BANK OKE INDONESIA",
+      "swift_code": "RIPAIDJ1",
+      "name": "Bank Oke Indonesia (formerly Bank Andara)",
+      "code": "OKE"
+   },
+   {
+      "bank_code": "498",
+      "bank_name": "PT. BANK SBI INDONESIA",
+      "swift_code": "IDMOIDJ1",
+      "name": "Bank SBI Indonesia",
+      "code": "SBI_INDONESIA"
+   },
+   {
+      "bank_code": "052",
+      "bank_name": "PT. BANK RBS",
+      "name": "Royal Bank of Scotland (RBS)",
+      "code": "RBS",
+      "swift_code": "ABNAIDJA"
+   },
+   {
+      "bank_code": "484",
+      "bank_name": "PT. BANK HANA",
+      "swift_code": "HNBNIDJA",
+      "name": "Bank Hana",
+      "code": "HANA"
+   },
+   {
+      "bank_code": "945",
+      "bank_name": "PT. BANK AGRIS",
+      "swift_code": "AGSSIDJA",
+      "name": "Bank Agris",
+      "code": "AGRIS"
+   },
+   {
+      "bank_code": "095",
+      "bank_name": "PT. BANK J TRUST INDONESIA, TBK.",
+      "swift_code": "CICTIDJA",
+      "name": "Bank JTrust Indonesia (formerly Bank Mutiara)",
+      "code": "JTRUST"
+   },
+   {
+      "bank_code": "547",
+      "bank_name": "PT. BANK BTPN SYARIAH, TBK.",
+      "swift_code": "PUBAIDJ1",
+      "name": "BTPN Syariah (formerly BTPN UUS and Bank Sahabat Purba Danarta)",
+      "code": "BTPN_SYARIAH"
+   },
+   {
+      "bank_code": "036",
+      "bank_name": "PT BANK CHINA CONSTRUCTION BANK INDONESIA, TBK.",
+      "swift_code": "BWKIIDJA",
+      "name": "China Construction Bank Indonesia (formerly Bank Antar Daerah and Bank Windu Kentjana International)",
+      "code": "CCB"
+   }
+]
