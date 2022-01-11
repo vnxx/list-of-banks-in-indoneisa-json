@@ -1006,5 +1006,19 @@
       "swift_code": "BWKIIDJA",
       "name": "China Construction Bank Indonesia (formerly Bank Antar Daerah and Bank Windu Kentjana International)",
       "code": "CCB"
+   },
+   {
+      "bank_code": "OVO",
+      "bank_name": "OVO (PT Visionet Internasional)",
+      "swift_code": "OVO",
+      "name": "OVO",
+      "code": "EWALLET_OVO"
+   },
+   {
+      "bank_code": "GOPAY",
+      "bank_name": "GOPAY (PT Aplikasi Karya Anak Bangsa)",
+      "swift_code": "GOPAY",
+      "name": "GOPAY",
+      "code": "EWALLET_GOPAY"
    }
 ]
