@@ -1015,6 +1015,13 @@
       "code": "EWALLET_OVO"
    },
    {
+      "bank_code": "DANA",
+      "bank_name": "DANA (PT. Espay Debit Indonesia)",
+      "swift_code": "DANA",
+      "name": "DANA",
+      "code": "EWALLET_DANA"
+   },
+   {
       "bank_code": "GOPAY",
       "bank_name": "GOPAY (PT Aplikasi Karya Anak Bangsa)",
       "swift_code": "GOPAY",
