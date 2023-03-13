@@ -491,17 +491,10 @@
    },
    {
       "bank_code": "116",
-      "bank_name": "PT. BPD ACEH",
+      "bank_name": "PT. BANK ACEH SYARIAH",
       "swift_code": "PDACIDJ1",
-      "name": "BPD Aceh",
+      "name": "Bank Aceh Syariah",
       "code": "ACEH"
-   },
-   {
-      "bank_code": "116",
-      "bank_name": "PT. BPD ACEH. UUS",
-      "swift_code": "SYACIDJ1",
-      "name": "BPD Aceh UUS",
-      "code": "ACEH_UUS"
    },
    {
       "bank_code": "129",
